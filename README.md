@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Hello. I'm Arina Wahab. 
+### I'm an engineer and my current life passion lies in helping cars self-navigate themselves with safety as their highest priority.
 
 You can use the [editor on GitHub](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
