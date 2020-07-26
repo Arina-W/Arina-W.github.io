@@ -1,5 +1,10 @@
 ## Hello. I'm Arina Wahab.
-### I'm an engineer and my current life passion lies in helping cars self-navigate themselves with safety as their highest priority.
+### I'm an engineer from Japan and my current life passion lies in helping cars self-navigate themselves with safety as their highest priority.
+
+This repository is a portfolio of my projects which I created for exploration of machine learning engineering path. 
+Each category presents for separate projects.
+
+## Hello. I'm Arina Wahab.
 
 You can use the [editor on GitHub](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
