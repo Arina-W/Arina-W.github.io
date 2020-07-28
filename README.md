@@ -7,8 +7,8 @@ Each category presents for separate projects.
 ### Table of contents
 
 - Computer Vision
-  - [Finding Lane Lines on the Road] (https://github.com/Arina-W/Finding-Lane-Lines)
-  - [Traffic Light Classifier] (https://github.com/Arina-W/Traffic_Light_Classifier)
+  - [Finding Lane Lines on the Road](https://github.com/Arina-W/Finding-Lane-Lines)
+  - [Traffic Light Classifier](https://github.com/Arina-W/Traffic_Light_Classifier)
   -
 You can use the [editor on GitHub](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
