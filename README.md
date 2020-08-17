@@ -36,7 +36,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+![projectgif](https://github.com/Arina-W/Detecting-Lane-Boundaries/blob/master/videos/project_video_gifresult.gif)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
