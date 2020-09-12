@@ -12,7 +12,7 @@ I hope you enjoy reading this as I enjoyed creating it!
 
 ## Computer Vision 
 * #### **Detecting Lane Boundaries**  [[Check out repo]](https://github.com/Arina-W/Detecting-Lane-Boundaries)
-> Keywords: OpenCV | 
+`<Keywords: OpenCV>`
 
 In this project, I wrote a software pipeline that identifies lane boundaries in a specific video taken from a front facing camera mounted on a vehicle. Frames from the video were  taken and used to extract enough information while creating this pipeline. All details in this pipeline can be seen in [this depository](https://github.com/Arina-W/Detecting-Lane-Boundaries). The entire code of this pipeline can be found in this [Jupyter Notebook.](http://localhost:8889/notebooks/PycharmProjects/P2/CarND-Advanced-Lane-Lines-master/AdvancedLaneFinding.ipynb)
 
