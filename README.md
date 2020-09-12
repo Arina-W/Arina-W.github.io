@@ -11,9 +11,9 @@ I hope you enjoy reading this as I enjoyed creating it!
 ### Directory
 
 * Computer Vision 
-  * Detecting-Lane-Boundaries
-  * Traffic_Light_Classifier
-  * Finding-Lane-Lines
+  * [Detecting-Lane-Boundaries ](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md/Detecting-Lane-Boundaries)
+  * [Traffic_Light_Classifier](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md/Traffic_Light_Classifier)
+  * [Finding-Lane-Lines](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md/Finding-Lane-Lines)
 
 ## Computer Vision 
 ---
@@ -30,6 +30,6 @@ categories : red, yellow, or green.
 
 ### Finding-Lane-Lines
 In this project, I developed a pipeline on a series of individual images, and later applied the result to a set of video streams.
- Current pipeline might have trouble to perceive the lane lines if the car needs to take a sharp turn
- or even a simple curve maneuver. Another concern would be the effect of nightlight from night lamps and reflections of headlamps etc
- during nighttime.
+Current pipeline might have trouble to perceive the lane lines if the car needs to take a sharp turn
+or even a simple curve maneuver. Another concern would be the effect of nightlight from night lamps and reflections of headlamps etc
+during nighttime.
