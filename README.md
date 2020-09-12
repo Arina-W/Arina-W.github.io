@@ -8,7 +8,7 @@ I hope you enjoy reading this as I enjoyed creating it!
 * Computer Vision 
   * Detecting Lane Boundaries
   * Traffic Light Classifier
-  * Finding Lane Lines
+  * [Finding Lane Lines](#Finding-Lane-Lines)
 
 ## Computer Vision 
 * #### **Detecting Lane Boundaries**
