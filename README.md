@@ -2,7 +2,6 @@
 
 This repository is a portfolio of the projects I created for exploration in the field of autonomous vehicle engineering. 
 I hope you enjoy reading this as I enjoyed creating it! 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Table of Contents
 
