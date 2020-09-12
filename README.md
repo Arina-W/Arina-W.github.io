@@ -11,9 +11,9 @@ I hope you enjoy reading this as I enjoyed creating it!
 ### Directory
 
 * Computer Vision 
-  * [Detecting-Lane-Boundaries ](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md/Detecting-Lane-Boundaries)
-  * [Traffic_Light_Classifier](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md/Traffic_Light_Classifier)
-  * [Finding-Lane-Lines](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md/Finding-Lane-Lines)
+  * [Detecting-Lane-Boundaries ](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md#Detecting-Lane-Boundaries)
+  * [Traffic_Light_Classifier](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md#Traffic_Light_Classifier)
+  * [Finding-Lane-Lines](https://github.com/Arina-W/arina-w.github.io/edit/master/README.md#Finding-Lane-Lines)
 
 ## Computer Vision 
 ---
