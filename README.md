@@ -17,7 +17,6 @@ In this project, I wrote a software pipeline that identifies lane boundaries in 
 * #### **Traffic Light Classifier**
 In this project, I used computer vision techniques to build a classifier for images of traffic lights.
 I used a given dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
-
 In the [Traffic_Light_Classifier notebook](https://github.com/Arina-W/Traffic_Light_Classifier/blob/master/Traffic_Light_Classifier.ipynb) I did
 pre-processing image routine, extract features that will help distinguish types of images, and use the features to classify test images into three 
 categories : red, yellow, or green. 
