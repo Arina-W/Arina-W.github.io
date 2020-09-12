@@ -5,9 +5,9 @@ I hope you enjoy reading this as I enjoyed creating it!
 
 ### Table of Contents
 
-* Computer Vision 
-  * Detecting Lane Boundaries
-  * Traffic Light Classifier
+* [Computer Vision](#Computer-Vision) 
+  * [Detecting Lane Boundaries](#Detecting-Lane-Boundaries)
+  * [Traffic Light Classifier](#Traffic-Light-Classifier)
   * [Finding Lane Lines](#Finding-Lane-Lines)
 
 ## Computer Vision 
