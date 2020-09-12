@@ -9,7 +9,7 @@ I'm a trilingual (English, Japanese, Malay) engineer whose life passion lies in 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Directory
+### Table of Contents
 
 * Computer Vision 
   * Detecting Lane Boundaries
