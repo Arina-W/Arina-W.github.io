@@ -5,7 +5,7 @@ I hope you enjoy reading this as I enjoyed creating it!
 
 ### List of Projects
 
- - Self Driving Car Engineer Nanodegree
+ - Self-Driving Car Engineer Nanodegree
    - Detecting Lane Boundaries
    - Finding Lane Lines
    - Traffic Sign Classifier
