@@ -1,14 +1,29 @@
 ## Autonomous Vehicle Engineering Portfolio 
 
-This repository is a portfolio of the projects I created for exploration in the field of autonomous vehicle engineering, through [Self-Driving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013), the [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t), [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313) and the [Robotics Software Engineer Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209) program. 
+This repository is a portfolio of the projects I created for exploration in the field of autonomous vehicle engineering, through [*Udacity's*](https://www.udacity.com/) School of Autonomous Systems' [Intro to Self-Driving Cars Nanodegree,](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) the [Self-Driving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013), the [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t), [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313) and the [Robotics Software Engineer Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209) program. 
 I hope you enjoy reading this as I enjoyed creating it! 
 
-### Table of Contents
+### List of Projects
 
-- Computer Vision
-  - Detecting Lane Boundaries
+ - Self Driving Car Engineer Nanodegree
+   - Detecting Lane Boundaries
+   - Finding Lane Lines
+   - Traffic Sign Classifier
+   - Behavioral Cloning
+   - Extended Kalman Filters Project
+   - Kidnapped Vehicle Project
+   - Highway Driving Project
+   - PID Controller Project
+   - PROGRAM AN AUTONOMOUS VEHICLE 
+  
+- Intro to Self-Driving Cars Nanodegree
+  - Parallel Park (playing around with Jupyter Notebook)
+  - 2D Histogram Filter in Python
+  - Implement a Matrix Class
+  - Histogram Filter from Python to C++
+  - A* Route Planner
   - Traffic Light Classifier
-  - Finding Lane Lines
+ 
   
 ### Computer Vision 
 #### **Detecting Lane Boundaries**  [[Check out repo]](https://github.com/Arina-W/Detecting-Lane-Boundaries)
