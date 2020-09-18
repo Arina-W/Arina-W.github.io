@@ -5,24 +5,15 @@ I hope you enjoy reading this as I enjoyed creating it!
 
 ### List of Projects
 
- - Self-Driving Car Engineer Nanodegree
+- Computer Vision
    - Detecting Lane Boundaries
    - Finding Lane Lines
    - Traffic Sign Classifier
-   - Behavioral Cloning
-   - Extended Kalman Filters Project
-   - Kidnapped Vehicle Project
-   - Highway Driving Project
-   - PID Controller Project
-   - PROGRAM AN AUTONOMOUS VEHICLE 
-  
-- Intro to Self-Driving Cars Nanodegree
-  - Parallel Park (playing around with Jupyter Notebook)
-  - 2D Histogram Filter in Python
-  - Implement a Matrix Class
-  - Histogram Filter from Python to C++
-  - A* Route Planner
-  - Traffic Light Classifier
+
+- Deep Learning
+
+- Sensor Fusion
+
  
   
 ### Computer Vision 
