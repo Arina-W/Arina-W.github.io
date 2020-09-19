@@ -38,7 +38,7 @@ during nighttime.
 
 
 ### Deep Learning
-Keywords: `<Convolutional Neural Networks>` `<Logistic Regression>` `<Backpropagation>` `<Deep Neural Networks>` `<Transfer Learning>` 
+Keywords: `Convolutional Neural Networks` `Logistic Regression` `Backpropagation` `Deep Neural Networks` `Transfer Learning` 
 
 ### Sensor Fusion
 Keywords: 
