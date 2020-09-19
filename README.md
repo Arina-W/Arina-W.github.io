@@ -37,7 +37,7 @@ during nighttime.
 
 
 
-### Deep Learning using Tensorflow and Keras
+### Deep Learning
 Keywords: `<Convolutional Neural Networks>` `<Logistic Regression>` `<Backpropagation>` `<Deep Neural Networks>` `<Transfer Learning>` 
 
 ### Sensor Fusion
