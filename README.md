@@ -5,7 +5,7 @@
 This repository is a portfolio of the projects I created for exploration in the field of autonomous vehicle engineering, through [*Udacity's*](https://www.udacity.com/) School of Autonomous Systems' [Intro to Self-Driving Cars Nanodegree,](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) the [Self-Driving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013), the [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t), [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313) and the [Robotics Software Engineer Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209) program. 
 I hope you enjoy reading this as I enjoyed creating it! 
 
-### List of Projects
+### Contents
 
 - Computer Vision
    - Detecting Lane Boundaries
