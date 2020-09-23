@@ -1,4 +1,4 @@
-#  This page is under construction........sorry!
+#  This page is under construction......will update soon :)
 
 ## Autonomous Vehicle Engineering Portfolio 
 
@@ -33,14 +33,15 @@ categories : red, yellow, or green.
 In this project, I developed a pipeline on a series of individual images, and later applied the result to a set of video streams.
 Current pipeline might have trouble to perceive the lane lines if the car needs to take a sharp turn
 or even a simple curve maneuver. Another concern would be the effect of nightlight from night lamps and reflections of headlamps etc
-during nighttime.
-
+during nighttime. 
 
 
 
 
 ### Deep Learning
-Keywords: `Convolutional Neural Networks` `Logistic Regression` `Backpropagation` `Deep Neural Networks` `Transfer Learning` 
+ 
 
 ### Sensor Fusion
-Keywords: 
+
+
+### 
