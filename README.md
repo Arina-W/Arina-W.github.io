@@ -16,7 +16,6 @@ I hope you enjoy reading this as I enjoyed creating it!
 
 - Sensor Fusion
 
- 
   
 ### Computer Vision 
 #### **Detecting Lane Boundaries**  [[Check out repo]](https://github.com/Arina-W/Detecting-Lane-Boundaries)
