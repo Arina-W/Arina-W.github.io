@@ -35,11 +35,8 @@ or even a simple curve maneuver. Another concern would be the effect of nightlig
 during nighttime. 
 
 
-
 ### Deep Learning
  
 
 ### Sensor Fusion
 
-
-### 
